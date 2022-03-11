@@ -9,4 +9,4 @@ Sesion de GitHub
 
 ## Insertaremos una imagen ## 
 
-![paty](img/Patricia_compu.jpg)
+![paty](IMG/Patricia_compu.jpg)
