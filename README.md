@@ -7,6 +7,6 @@ Sesion de GitHub
 
 
 
-##Insertaremos una imagen## 
+## Insertaremos una imagen ## 
 
-![paty](IMG/descarga.png)
+![paty](IMG/descarga.jpg)
